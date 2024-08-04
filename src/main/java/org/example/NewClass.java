@@ -1,4 +1,4 @@
 package org.example;
 
-public class Super {
+public class NewClass {
 }
